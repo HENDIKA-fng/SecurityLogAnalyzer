@@ -1,0 +1,12 @@
+2026-02-01 08:00:15 [INFO] System boot sequence started successfully.
+2026-02-01 08:05:22 [INFO] Database connection established on port 5432.
+2026-02-01 08:10:45 [WARNING] High CPU usage detected: 85% capacity reached.
+2026-02-01 08:15:10 [INFO] User 'admin' logged in from IP 192.168.1.10.
+2026-02-01 08:20:05 [FAILED] login attempt for user 'root' from IP 10.0.0.55.
+2026-02-01 08:20:07 [FAILED] login attempt for user 'root' from IP 10.0.0.55.
+2026-02-01 08:20:09 [FAILED] login attempt for user 'root' from IP 10.0.0.55.
+2026-02-01 08:30:44 [DENIED] Unauthorized access attempt to /etc/shadow.
+2026-02-01 09:00:00 [INFO] Daily system backup completed.
+2026-02-01 09:15:33 [WARNING] Disk space on /dev/sda1 is below 10%.
+2026-02-01 10:05:12 [DENIED] User 'guest' attempted to access restricted folder 'Finance_Reports'.
+2026-02-01 11:00:00 [INFO] Automatic security patch applied.
