@@ -3,7 +3,7 @@
 **Nama:** Hendika Satria Widiyadana  
 **NIM:** 250401010052  
 **Mata Kuliah:** Pemrograman Visual  
-**Kampus:** Universitas [Nama Universitas Anda]  
+**Kampus:** UNSIA
 
 ---
 
